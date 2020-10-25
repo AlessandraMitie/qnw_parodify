@@ -9,6 +9,7 @@ Funcionalidade: Cadastro de Usuários
 Cenario: Cadastro
     Dado que acesso a página de cadastro
     Quando submeto o meu cadastro com:
+            #chave:              #valor:
         | email          | alessandra@teste.com |
         | senha          | teste10              |
         | senha_confirma | teste10              |
